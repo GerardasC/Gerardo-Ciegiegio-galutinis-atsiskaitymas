@@ -4,7 +4,6 @@ export const registerOrder = (req, res) => {
   const products = database.data.products;
 
   const order = req.body;
-  console.log(order.orderList);
   database.data.orders.push(order);
   
   order.orderList.forEach(y => {

@@ -6,9 +6,6 @@ const initialState = LocalStorage.get('cart') ?? {
   cartItems: [],
   firstLoad: false,
 };
-// const initialState = {
-  //   cartItems: [],
-  // };
 
 const cartSlice = createSlice({
   name: 'cart',
@@ -17,7 +14,6 @@ const cartSlice = createSlice({
     addToCart(state, { payload }) {
       const result = state.cartItems.findIndex((x) => x.id === payload.id);
       const cart = current(state);
-      // console.log(firstLoad);
 
       if (result > -1) {
         if (cart.cartItems[result].quantity < payload.inStock) {
@@ -26,7 +22,6 @@ const cartSlice = createSlice({
           } else {
             state.cartItems[result].quantity += payload.quantity;
           }
-          // state.cartItems[result].quantity += 1;
         }
       } else {
         state.cartItems.push(payload);
@@ -70,7 +65,6 @@ const cartSlice = createSlice({
 
       state.cartItems = reducedCart;
       state.firstLoad = true;
-      // LocalStorage.set('cart', state);
       LocalStorage.clear('cart');
     },
     removeFromCart(state, { payload }) {

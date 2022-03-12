@@ -27,8 +27,6 @@ export const insertProduct = (req, res) => {
       images: [images]
     }
     
-    console.log(newProduct);
-
     database.data.products.push(newProduct);
     database.write();
 

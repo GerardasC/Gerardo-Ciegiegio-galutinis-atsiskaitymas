@@ -19,8 +19,6 @@ const ProductPage = () => {
     })();
   }, []);
 
-  console.log(product);
-
   return (
     <WideContainer>
       <Box mt="40px" sx={{ position: 'relative' }}>
