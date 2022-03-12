@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   AppBar,
   Box,
@@ -15,14 +15,22 @@ import NavbarMenu from './navbar-menu';
 import NavbarAuth from './navbar-auth';
 import NavbarCart from './navbar-cart';
 import { selectAuth } from '../../store/auth';
+import APIService from '../../services/api-service';
 
 const Navbar = () => {
   const { loggedIn } = useSelector(selectAuth);
   const [open, setOpen] = useState(false);
+  const [category, setCategory] = useState([]);
 
   const toggleSlider = () => {
     setOpen(!open);
   };
+  useEffect(() => {
+    (async () => {
+      const categoryData = await APIService.fetchCategories();
+      setCategory(categoryData);
+    })();
+  }, []);
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -45,7 +53,7 @@ const Navbar = () => {
               <NavbarLink to={routes.EshopGridPage}>Catalog</NavbarLink>
             </Box>
             <Box sx={{ display: { xs: 'none', sm: 'flex' }, width: 600 }}>
-              <PageLayoutSearch />
+              <PageLayoutSearch category={category} />
             </Box>
             <Box sx={{ display: 'flex', alignItems: 'stretch' }}>
               <Box sx={{ display: 'flex', mr: 1 }}>
@@ -66,7 +74,7 @@ const Navbar = () => {
             </Box>
           </Toolbar>
           <Toolbar style={{ minHeight: '55px' }} sx={{ display: { xs: 'flex', sm: 'none' } }}>
-            <PageLayoutSearch />
+            <PageLayoutSearch category={category} />
           </Toolbar>
         </WideContainer>
       </AppBar>

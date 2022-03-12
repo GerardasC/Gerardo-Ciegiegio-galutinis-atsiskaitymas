@@ -40,7 +40,7 @@ const ProductPageInfo = ({ product }) => {
         <TitleName>Price:</TitleName>
         <Typography fontSize="25px" color="secondary">
           €&nbsp;
-          {product.price}
+          {product.price.toFixed(2)}
         </Typography>
       </TitleContainer>
       <TitleContainer>

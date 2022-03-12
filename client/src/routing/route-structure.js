@@ -35,7 +35,6 @@ export default [
       {
         path: 'cart',
         pageName: 'CartView',
-        auth: LOGGED_IN,
       },
       {
         path: 'thankyoupage',

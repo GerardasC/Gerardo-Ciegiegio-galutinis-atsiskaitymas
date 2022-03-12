@@ -4,7 +4,7 @@ import Button from '@mui/material/Button';
 import { useNavigate } from 'react-router-dom';
 
 const PromoBlock = ({
-  color, promoImg, headerText, bodyText,
+  color, promoImg, headerText, bodyText, link,
 }) => {
   const navigate = useNavigate();
 
@@ -33,7 +33,7 @@ const PromoBlock = ({
           height: '50px',
         }}
         onClick={() => {
-          navigate('/catalog');
+          navigate(link);
         }}
       >
         {`Shop ${headerText}`}

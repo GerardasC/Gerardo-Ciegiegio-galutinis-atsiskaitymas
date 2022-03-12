@@ -22,7 +22,7 @@ const CartCheckoutSection = () => {
       <Box display="flex" justifyContent="space-between">
         <Box fontSize="21px" fontWeight={500} color="primary.main">Total: </Box>
         <Box fontSize="21px" fontWeight={500} color="primary.main">
-          {cartCount}
+          {cartCount.toFixed(2)}
           &nbsp;
           EUR
         </Box>

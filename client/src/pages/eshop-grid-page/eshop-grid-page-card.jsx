@@ -27,7 +27,9 @@ const EshopGridPageCard = ({ product }) => {
         <Box
           component="img"
           src={product.images[0]}
-          sx={{ width: '100%', objectFit: 'cover', cursor: 'pointer' }}
+          sx={{
+            width: '100%', maxHeight: '200px', objectFit: 'scale-down', cursor: 'pointer',
+          }}
           onClick={() => navigate(`/catalog/${product.id}`)}
         />
       </Box>
@@ -49,7 +51,7 @@ const EshopGridPageCard = ({ product }) => {
         </Typography>
         <Typography fontSize="21px" color="secondary.main">
           €&nbsp;
-          {product.price}
+          {product.price.toFixed(2)}
         </Typography>
         <Box mt="8px">
           {

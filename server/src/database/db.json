@@ -35,11 +35,11 @@
       "id": "1",
       "category": "1",
       "brand": "1",
-      "type": "1",
+      "type": "2",
       "size": "2",
       "title": "LG 80 Series 65” Alexa Built-in, 4K",
-      "inStock": 920,
-      "price": 999,
+      "inStock": 10,
+      "price": 999.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
         "https://m.media-amazon.com/images/I/A19cnsdWQlL._AC_SL1500_.jpg",
@@ -53,11 +53,11 @@
       "id": "2",
       "category": "1",
       "brand": "1",
-      "type": "1",
+      "type": "2",
       "size": "2",
       "title": "LG OLED C1 Series 65 4k Smart TV",
       "inStock": 3,
-      "price": 700,
+      "price": 700.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
         "https://m.media-amazon.com/images/I/916NVBBT0mS._AC_SL1500_.jpg",
@@ -71,11 +71,11 @@
       "id": "3",
       "category": "1",
       "brand": "1",
-      "type": "1",
+      "type": "2",
       "size": "2",
-      "title": "LG OLED C1 Series 65 4k Smart TV",
-      "inStock": 0,
-      "price": 999,
+      "title": "LG OLED C1 Series 65” Alexa Built-in 4k",
+      "inStock": 5,
+      "price": 899.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
         "https://m.media-amazon.com/images/I/91mqqks5n6S._AC_SL1500_.jpg",
@@ -89,11 +89,11 @@
       "id": "4",
       "category": "1",
       "brand": "1",
-      "type": "1",
+      "type": "2",
       "size": "2",
-      "title": "LG OLED C1 Series 65 4k Smart TV",
-      "inStock": 0,
-      "price": 999,
+      "title": "LG 55NANO90UPA Alexa Built-In NanoCell 90 Series 65 4K",
+      "inStock": 5,
+      "price": 840.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
         "https://m.media-amazon.com/images/I/91GRcF718oL._AC_SL1500_.jpg",
@@ -107,11 +107,11 @@
       "id": "5",
       "category": "1",
       "brand": "1",
-      "type": "1",
+      "type": "2",
       "size": "2",
-      "title": "LG OLED C1 Series 65 4k Smart TV",
-      "inStock": 0,
-      "price": 999,
+      "title": "LG OLED G1 Series 65” Alexa Built-in 4k Smart OLED evo TV",
+      "inStock": 5,
+      "price": 1099.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
         "https://m.media-amazon.com/images/I/91iJlrVotjL._AC_SL1500_.jpg",
@@ -125,11 +125,11 @@
       "id": "6",
       "category": "1",
       "brand": "1",
-      "type": "1",
+      "type": "2",
       "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
+      "title": "LG 65 inch LED 4K UHD Smart Fire TV",
       "inStock": 0,
-      "price": 339,
+      "price": 339.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
         "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
@@ -143,18 +143,17 @@
       "id": "7",
       "category": "1",
       "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "type": "2",
+      "size": "1",
+      "title": "LG 43UP7000PUA 55 inch Series 4K",
+      "inStock": 6,
+      "price": 739.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/719AW3bARVS._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71VApLHHa+L._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/7186VSKjcvS._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41w-k6je69S._AC_SL1000_.jpg"
       ]
     },
     {
@@ -162,17 +161,16 @@
       "category": "1",
       "brand": "1",
       "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "size": "4",
+      "title": "LG 86QNED99UPA Alexa Built-in QNED MiniLED 99 Series 85 8K",
+      "inStock": 6,
+      "price": 1999.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/917N6Lw-aOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41L+AjJxlyS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61c7bvolO3S._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71G1ytgc6AS._AC_SL1500_.jpg"
       ]
     },
     {
@@ -180,287 +178,258 @@
       "category": "1",
       "brand": "1",
       "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "size": "4",
+      "title": "LG 75NANO90UNA Alexa BuiltIn NanoCell 90 Series 75-inch 4K",
+      "inStock": 6,
+      "price": 1645.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/81oZ5GPqLgL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7154WO12AVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71DrcHcJZvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81RBrDk72hL._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "10",
       "category": "1",
       "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "type": "2",
+      "size": "3",
+      "title": "LG 75UM6970PUB 75-in HDR 4K",
+      "inStock": 7,
+      "price": 680.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/71Suk7gr6uL._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "11",
       "category": "1",
       "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "type": "4",
+      "size": "1",
+      "title": "LG 32LM570BPUA 55 Class 720p",
+      "inStock": 3,
+      "price": 420.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/81Zn8G7FgfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81go3NNy5YL._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "12",
       "category": "1",
       "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "type": "3",
+      "size": "1",
+      "title": "LG 55IN PROCENTRIC Hospitality TV 1080p",
+      "inStock": 2,
+      "price": 520.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/61tHwaCGFQL._AC_SL1200_.jpg"
       ]
     },
     {
       "id": "13",
       "category": "1",
       "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "type": "2",
+      "size": "1",
+      "title": "LG 55 OLED 43UP7000PUA TV 4k",
+      "inStock": 7,
+      "price": 1020.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/912DGq08XBS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91f6ZHEb25S._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "14",
       "category": "1",
-      "brand": "1",
-      "type": "1",
+      "brand": "2",
+      "type": "2",
       "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "title": "SAMSUNG 65-Inch Class Crystal UHD AU8000 Series - 4K",
+      "inStock": 7,
+      "price": 1200.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/71LJJrKbezL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81a7BTs8lBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51j1FNG-ryL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/91SL7ghea4L._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "15",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "2",
+      "type": "2",
+      "size": "1",
+      "title": "SAMSUNG 55-Inch Class QLED Series - 4K UHD Dual LED",
+      "inStock": 7,
+      "price": 1710.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/51klN9YENaL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61oCYsjpIiL._AC_SL1200_.jpg"
       ]
     },
     {
       "id": "16",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "2",
+      "type": "2",
+      "size": "3",
+      "title": "SAMSUNG 75-Inch Class QLED Q70A Series - 4K UHD Quantum HDR Smart TV with Alexa Built-in",
+      "inStock": 7,
+      "price": 1699.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/81fWbLbFP7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61JvawTvJQL._AC_SL1200_.jpg"
       ]
     },
     {
       "id": "17",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "3",
+      "type": "2",
+      "size": "4",
+      "title": "Sony X85J 85 Inch TV: 4K Ultra HD LED Smart Google TV",
+      "inStock": 7,
+      "price": 1010.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/81gvQXs0CML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91kMaf2lG0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81idhGk4Y9L._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "18",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "3",
+      "type": "2",
+      "size": "3",
+      "title": "Sony X90J 75 Inch TV: BRAVIA XR Full Array LED 4K",
+      "inStock": 7,
+      "price": 1390.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/91KZbi-CbzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81iNM2SsLHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91kMaf2lG0L._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "19",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "3",
+      "type": "2",
+      "size": "1",
+      "title": "Sony A80J 55 Inch TV: BRAVIA XR OLED 4K",
+      "inStock": 7,
+      "price": 999.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/91ADOxkYOfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818WWkmsAXS._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "20",
       "category": "1",
-      "brand": "1",
-      "type": "1",
+      "brand": "3",
+      "type": "2",
       "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "title": "Sony X950H 65-inch TV: 4K Ultra HD Smart LED TV with HDR and Alexa",
+      "inStock": 7,
+      "price": 1010.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/61AZHTzK-dL._AC_SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61ZqSAQBezL._AC_SL1200_.jpg"
       ]
     },
     {
       "id": "21",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "3",
+      "type": "2",
+      "size": "1",
+      "title": "Sony A90J 55 Inch TV: BRAVIA XR OLED 4K Ultra HD",
+      "inStock": 6,
+      "price": 899.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/91CmEMWeU3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Zodm94xHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61AhopcDcvL._AC_SL1000_.jpg"
       ]
     },
     {
       "id": "22",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "3",
+      "type": "3",
+      "size": "1",
+      "title": "Sony Bravia FW43BZ35F 55 HD",
+      "inStock": 3,
+      "price": 650.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/71FrKl59c9L._AC_SL1000_.jpg"
       ]
     },
     {
       "id": "23",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "3",
+      "type": "2",
+      "size": "4",
+      "title": "Sony XBR55X900F 85-Inch 4K",
+      "inStock": 9,
+      "price": 1900.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/71uqLWUl2GL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61rtEIWVoyL._AC_SL1000_.jpg"
       ]
     },
     {
       "id": "24",
       "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "2",
-      "title": "Insignia 55 inch LED 4K UHD Smart Fire TV,",
-      "inStock": 0,
-      "price": 339,
+      "brand": "4",
+      "type": "2",
+      "size": "1",
+      "title": "Philips 55 4K Android TV, 50PFL5766/F6",
+      "inStock": 7,
+      "price": 899.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81L7wIsYFXL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31A-7BMRZKL._AC_SL1000_.jpg",
-        "https://m.media-amazon.com/images/I/61q0KFcEBIL._AC_SL1000_.jpg"
+        "https://m.media-amazon.com/images/I/81SvnVeW+SL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81a8FcB3lML._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "25",
+      "category": "1",
+      "brand": "4",
+      "type": "2",
+      "size": "3",
+      "title": "Philips, 75 4K ROKU TV, 75PFL4756/F7",
+      "inStock": 7,
+      "price": 1010.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/71ZPWwPFBWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71T6E8cFQ6L._AC_SL1500_.jpg"
       ]
     },
     {
@@ -471,8 +440,8 @@
       "connectivity": "2",
       "title": "Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones",
       "inStock": 4,
-      "price": 193,
-      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "price": 193.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
       "images": [
         "https://m.media-amazon.com/images/I/51-+O3-wFxL._AC_SL1000_.jpg",
         "https://m.media-amazon.com/images/I/61zCi3GMH4L._AC_SL1500_.jpg",
@@ -490,63 +459,378 @@
       "title": "Sony Wired Noise Cancelling Stereo Headphones",
       "inStock": 7,
       "price": 39.99,
-      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
       "images": [
         "https://m.media-amazon.com/images/I/71iReo5H0YL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/71ZmfcnPj6L._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/31bn16P9umL._AC_.jpg",
         "https://m.media-amazon.com/images/I/41qZyjWtN4L._AC_.jpg",
         "https://m.media-amazon.com/images/I/41aiwdqi1SL._AC_.jpg"
+      ]
+    },
+    {
+      "id": "1003",
+      "category": "2",
+      "brand": "h1",
+      "type": "1",
+      "connectivity": "2",
+      "title": "New Bose QuietComfort 45 Bluetooth Wireless Noise Canceling Headphones - Triple Black",
+      "inStock": 15,
+      "price": 329.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/51JbsHSktkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61OOL7EOTVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71T9bXj3NdL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81dkTK+pNrL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1004",
+      "category": "2",
+      "brand": "h1",
+      "type": "1",
+      "connectivity": "2",
+      "title": "Bose SoundLink Around Ear Wireless Headphones II - Black",
+      "inStock": 23,
+      "price": 149.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/71jDdUuRi8L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71r5yiYW3nL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LirOdu88L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71R4yfSBy8L._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1005",
+      "category": "2",
+      "brand": "h1",
+      "type": "3",
+      "connectivity": "2",
+      "title": "Bose Sport Earbuds - Wireless Earphones - Bluetooth In Ear",
+      "inStock": 10,
+      "price": 159.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/519Dfq0ir6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51d+69Zt1bL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-o49Cwx2L._AC_SL1483_.jpg",
+        "https://m.media-amazon.com/images/I/61bzRycSHjL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1006",
+      "category": "2",
+      "brand": "h1",
+      "type": "1",
+      "connectivity": "2",
+      "title": "Bose Noise Cancelling Headphones 700 — Over Ear",
+      "inStock": 7,
+      "price": 274.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/61+bXoMHXQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61gLp9iOoOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51YGPI7+ETS._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/519aiiNodfS._AC_SL1200_.jpg"
+      ]
+    },
+    {
+      "id": "1007",
+      "category": "2",
+      "brand": "h2",
+      "type": "1",
+      "connectivity": "2",
+      "title": "Sony WH-1000XM4 Wireless Industry Leading Noise Canceling",
+      "inStock": 7,
+      "price": 230.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81hmYqQytUL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1008",
+      "category": "2",
+      "brand": "h2",
+      "type": "3",
+      "connectivity": "1",
+      "title": "Sony MDRXB55AP Wired Extra Bass Earbud Headphones/Headset with Mic for Phone Call, Black",
+      "inStock": 20,
+      "price": 28.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/41c3IqnDOqL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61X9umc4YwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tVGOi1gVS._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1009",
+      "category": "2",
+      "brand": "h3",
+      "type": "2",
+      "connectivity": "2",
+      "title": "SENNHEISER HD 450BT Bluetooth 5.0 Wireless Headphone",
+      "inStock": 15,
+      "price": 129.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/71z97HfSZxS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71AvYjFfMxS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iMyfon62S._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1010",
+      "category": "2",
+      "brand": "h3",
+      "type": "2",
+      "connectivity": "1",
+      "title": "Sennheiser HD 650 - Audiophile Hi-Res Open Back Dynamic Headphone",
+      "inStock": 5,
+      "price": 329.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/81BOkzZcSfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81-ITWVlShL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71y8G8uMw5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kh8ohsQtL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1011",
+      "category": "2",
+      "brand": "h3",
+      "type": "2",
+      "connectivity": "1",
+      "title": "Sennheiser SC 165 USB (508317) - Double-Sided (Binaural) Headset for Business",
+      "inStock": 16,
+      "price": 42.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/619tT0Rh9sS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61l05nESLSL._AC_SL1312_.jpg",
+        "https://m.media-amazon.com/images/I/614nr6DiFHL._AC_SL1312_.jpg",
+        "https://m.media-amazon.com/images/I/71t0jDFMGhL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1012",
+      "category": "2",
+      "brand": "h4",
+      "type": "3",
+      "connectivity": "1",
+      "title": "Beats Flex Wireless Earbuds - Apple W1 Headphone Chip",
+      "inStock": 9,
+      "price": 66.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/51m9fuYbhHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ZyB7rV21L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710QtIhK7TL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TwFUijzfL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1013",
+      "category": "2",
+      "brand": "h4",
+      "type": "2",
+      "connectivity": "2",
+      "title": "Beats Solo Pro Wireless Noise Cancelling On-Ear Headphones ",
+      "inStock": 12,
+      "price": 139.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/519YHkvtutL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61RvmVFAN3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71AP8Ct+k6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fL8FK2jpL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "1014",
+      "category": "2",
+      "brand": "h4",
+      "type": "3",
+      "connectivity": "2",
+      "title": "Beats Studio Buds – True Wireless Noise Cancelling Earbuds",
+      "inStock": 15,
+      "price": 97.99,
+      "description": "Deep, immersive sound, improved EQ best in class performance for wireless headphones. Connectivity technology: WiredWireless Latest Bluetooth technology for easy connectivity and seamless audiovideo syncs. Advanced microphone system, HD voice for clear calls in windy or noisy environments. Up to 15 hours play time with rechargeable lithium ion battery. Switch between 2 Bluetooth devices so you can watch a video while staying connected to your smartphone. Wireless range up to 30 feet (9 meter).",
+      "images": [
+        "https://m.media-amazon.com/images/I/51utxdpV8cS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LiMJKpSES._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61iYeyOgx1S._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61oam8E16AS._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "2001",
       "category": "3",
-      "brand": "s2",
-      "type": "2",
-      "connectivity": "1",
-      "title": "Sony Wired Noise Cancelling Stereo Headphones",
-      "inStock": 7,
-      "price": 39.99,
+      "brand": "s1",
+      "type": "3",
+      "connectivity": "2",
+      "title": "Klipsch R-51PM Powered Bluetooth Speaker",
+      "inStock": 10,
+      "price": 369.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/71iReo5H0YL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71ZmfcnPj6L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31bn16P9umL._AC_.jpg",
-        "https://m.media-amazon.com/images/I/41qZyjWtN4L._AC_.jpg",
-        "https://m.media-amazon.com/images/I/41aiwdqi1SL._AC_.jpg"
+        "https://m.media-amazon.com/images/I/91OTscwsbKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91bk6xlrTdL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91CwQ5fPuUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/814qtVIy9iL._AC_SL1500_.jpg"
       ]
     },
     {
       "id": "2002",
       "category": "3",
-      "brand": "s2",
-      "type": "2",
-      "connectivity": "1",
-      "title": "Sony Wired Noise Cancelling Stereo Headphones",
-      "inStock": 7,
-      "price": 39.99,
+      "brand": "s1",
+      "type": "4",
+      "connectivity": "2",
+      "title": "Klipsch The Fives Powered Speaker System with HDMI-ARC in Walnut",
+      "inStock": 8,
+      "price": 599.99,
       "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://m.media-amazon.com/images/I/71iReo5H0YL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71ZmfcnPj6L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/31bn16P9umL._AC_.jpg",
-        "https://m.media-amazon.com/images/I/41qZyjWtN4L._AC_.jpg",
-        "https://m.media-amazon.com/images/I/41aiwdqi1SL._AC_.jpg"
+        "https://m.media-amazon.com/images/I/81Sd4lc6kEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91z2u21OIDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81dcKOhb9ML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91kt5K7aJ3L._AC_SL1500_.jpg"
       ]
     },
     {
-      "id": "d91a02cd-6443-47bb-a12c-2dff1f0facf5",
-      "category": "1",
-      "brand": "1",
-      "type": "1",
-      "size": "1",
-      "title": "Labas",
-      "inStock": 10,
-      "price": 500,
-      "description": "blablalbal",
+      "id": "2003",
+      "category": "3",
+      "brand": "s1",
+      "type": "2",
+      "connectivity": "1",
+      "title": "Klipsch ProMedia 2.1 THX Certified Computer Speaker System",
+      "inStock": 7,
+      "price": 124.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
       "images": [
-        "https://lt1.pigugroup.eu/colours/373/793/78/37379378/estar-smart-tv-3282cm-2k-hd-ledtv32s1t2_xbig.jpg"
+        "https://m.media-amazon.com/images/I/71TuRvMNvZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71oa3bbDijL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xP1L6Lu4L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EboHVF5pL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "2004",
+      "category": "3",
+      "brand": "s2",
+      "type": "1",
+      "connectivity": "2",
+      "title": "Sony Compact and Portable Waterproof Wireless Speaker with Extra Bass",
+      "inStock": 12,
+      "price": 64.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/51kQntfQvPL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51eTI15Zw6L._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51YpIF1L3lL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/51X+e2d5mRL._AC_SL1200_.jpg"
+      ]
+    },
+    {
+      "id": "2005",
+      "category": "3",
+      "brand": "s2",
+      "type": "2",
+      "connectivity": "2",
+      "title": "Sony SRS-XG500 X-Series Wireless Portable-Bluetooth Party-Speaker",
+      "inStock": 7,
+      "price": 398.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/81ewf9mBtnS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91NnhVkLqUS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816F9g3oWwS._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "2006",
+      "category": "3",
+      "brand": "s3",
+      "type": "4",
+      "connectivity": "1",
+      "title": "SAMSUNG 9100S Rear Speaker Kit - Wireless",
+      "inStock": 5,
+      "price": 147.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/81MtIkFgB1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91DdcyJJMuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/817XeLZJBnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81BF8MmefLL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "2007",
+      "category": "3",
+      "brand": "s4",
+      "type": "1",
+      "connectivity": "2",
+      "title": "JBL FLIP 5 Portable Wireless Bluetooth Speaker IPX7",
+      "inStock": 8,
+      "price": 129.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/81FF+Guqm-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716pf-ggZlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mFNcOrSyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LuNG8X+9L._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "2008",
+      "category": "3",
+      "brand": "s4",
+      "type": "4",
+      "connectivity": "1",
+      "title": "JBL Bar 5.1 - Soundbar with Built-in Virtual Surround, 4K and 10 Wireless",
+      "inStock": 7,
+      "price": 499.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/61AgrantFxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mzAAaS4OL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71j2vBfQs0L._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "2009",
+      "category": "3",
+      "brand": "s4",
+      "type": "1",
+      "connectivity": "2",
+      "title": "BL Flip Essential Portable Waterproof Wireless Bluetooth Speaker",
+      "inStock": 6,
+      "price": 76.99,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/71EFIywra5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wFsBSdubL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Prg8dGgQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71P2jMrrF6L._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "2010",
+      "category": "3",
+      "brand": "s4",
+      "type": "4",
+      "connectivity": "1",
+      "title": "JBL S2-1024SS SERIES II 1000 WATTS SUBWOOFER ENCLOSURE",
+      "inStock": 7,
+      "price": 239.95,
+      "description": "True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface. True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.",
+      "images": [
+        "https://m.media-amazon.com/images/I/41kDCxVU-gL._AC_.jpg"
       ]
     }
   ],
@@ -650,7 +934,7 @@
         },
         {
           "id": "s3",
-          "title": "Sennheiser"
+          "title": "Samsung"
         },
         {
           "id": "s4",
@@ -663,8 +947,8 @@
       "name": "price",
       "type": "range",
       "property": "price",
-      "min": 339,
-      "max": 999
+      "min": 64,
+      "max": 600
     },
     {
       "id": "6",
@@ -904,7 +1188,7 @@
     },
     {
       "id": "s3",
-      "title": "Sennheiser"
+      "title": "Samsung"
     },
     {
       "id": "s4",

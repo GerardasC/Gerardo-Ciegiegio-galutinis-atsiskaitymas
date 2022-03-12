@@ -42,7 +42,7 @@ const CheckoutPage = () => {
             <Box display="flex" justifyContent="flex-end" sx={{ p: 2 }}>
               <Box fontSize="21px" fontWeight={500} color="primary.main">Total:&nbsp;&nbsp;</Box>
               <Box fontSize="21px" fontWeight={500} color="primary.main">
-                {cartCount}
+                {cartCount.toFixed(2)}
                 &nbsp;
                 EUR
               </Box>

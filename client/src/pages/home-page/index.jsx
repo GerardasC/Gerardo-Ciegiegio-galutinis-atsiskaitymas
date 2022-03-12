@@ -24,6 +24,7 @@ const HomePage = () => {
                 promoImg={promoImg1}
                 headerText="OLED TV&apos;s"
                 bodyText="Exclusive offers on TV&apos;s until March 31."
+                link="/catalog?category=1"
               />
             </Grid>
             <Grid item xs={12} sm={6} lg={4}>
@@ -32,6 +33,7 @@ const HomePage = () => {
                 promoImg={promoImg2}
                 headerText="Speakers"
                 bodyText="Explore our range of high-quality speakers."
+                link="/catalog?category=2"
               />
             </Grid>
             <Grid item xs={12} sm={6} lg={4}>
@@ -40,6 +42,7 @@ const HomePage = () => {
                 promoImg={promoImg3}
                 headerText="Headphones"
                 bodyText="Discover our new headphones. Up to 25% Off !"
+                link="/catalog?category=3"
               />
             </Grid>
           </Grid>

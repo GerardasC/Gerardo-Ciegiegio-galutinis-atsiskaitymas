@@ -4,7 +4,6 @@ import { Box } from '@mui/material';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
-import APIService from '../../services/api-service';
 
 const StyledBox = styled(FormControl)(({ theme }) => ({
   color: theme.palette.textColor.main,
@@ -28,21 +27,17 @@ const StyledContainer = styled(Box)(({ theme }) => ({
   height: '38px',
 }));
 
-const SearchBarCategoryPicker = () => {
-  const [category, setCategory] = useState([]);
+const SearchBarCategoryPicker = ({ category }) => {
   const [option, setOption] = useState('');
 
   const handleChange = (event) => {
     setOption(event.target.value);
   };
-
   useEffect(() => {
-    (async () => {
-      const categoryData = await APIService.fetchCategories();
-      setCategory(categoryData);
+    if (category.length) {
       setOption(1);
-    })();
-  }, []);
+    }
+  }, [category]);
 
   return (
     <StyledContainer sx={{

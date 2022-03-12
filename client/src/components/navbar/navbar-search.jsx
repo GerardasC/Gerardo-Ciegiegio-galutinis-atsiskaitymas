@@ -8,7 +8,7 @@ import {
 import SearchIcon from '@mui/icons-material/Search';
 import SearchBarCategoryPicker from './navbar-search-category';
 
-const PageLayoutSearch = () => (
+const PageLayoutSearch = ({ category }) => (
   <Paper
     component="form"
     sx={{
@@ -26,7 +26,7 @@ const PageLayoutSearch = () => (
         sx: { pr: 0 },
         endAdornment: (
           <InputAdornment position="end">
-            <SearchBarCategoryPicker />
+            <SearchBarCategoryPicker category={category} />
             <IconButton
               color="btnWhite"
               sx={{

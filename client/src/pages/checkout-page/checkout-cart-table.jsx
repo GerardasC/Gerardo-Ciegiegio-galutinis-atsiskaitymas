@@ -78,7 +78,7 @@ const CheckoutCartTable = ({ cartItems }) => {
                 </Typography>
                 <Typography fontSize="15px" color="secondary.main">
                   €&nbsp;
-                  {price}
+                  {price.toFixed(2)}
                 </Typography>
               </Box>
             </Box>
@@ -89,7 +89,7 @@ const CheckoutCartTable = ({ cartItems }) => {
             </Box>
           </QuantityRow>
           <ProductRow item xs={12} sm={2} display={{ xs: 'none', sm: 'flex' }} textAlign="center" fontSize="17px">
-            {quantity * price}
+            {(quantity * price).toFixed(2)}
             &nbsp;EUR
           </ProductRow>
         </GridContainer>
