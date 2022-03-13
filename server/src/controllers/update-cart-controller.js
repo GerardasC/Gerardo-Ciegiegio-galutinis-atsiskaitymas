@@ -13,5 +13,7 @@ export const updateCart = (req, res) => {
   const productIndex = cart.findIndex(x => x.userId == reqParams);
   database.data.cart.splice(productIndex, 1, updatedCart);
   database.write();
-  res.status(200).json(updatedCart);
+  res.status(200).json({
+    message: 'Success',
+  });
 }

@@ -66,13 +66,15 @@ const updateCart = async (userId, body) => {
 };
 
 const placeOrder = async (body) => {
-  const { data, status } = await request.post('/registerorder', body);
-
-  if (status === 200) {
-    return true;
+  try {
+    const { status } = await request.post('/registerorder', body);
+    if (status === 200) {
+      return true;
+    }
+  } catch (error) {
+    throw new Error(error.message);
   }
-
-  throw new Error(data.message);
+  return true;
 };
 
 const insertProduct = async (body) => {

@@ -49,8 +49,8 @@ const CheckoutCartTable = ({ cartItems }) => {
     <GridMainContainer color="textColor.main" container>
       <GridContainer container display={{ xs: 'none', sm: 'flex' }}>
         <GridTitles item xs={12} sm={6}>Product</GridTitles>
-        <GridTitles item xs={12} sm={4} textAlign="center">Quantity</GridTitles>
-        <GridTitles item sm={2} textAlign="center">Total</GridTitles>
+        <GridTitles item xs={12} sm={3} textAlign="center">Quantity</GridTitles>
+        <GridTitles item sm={3} textAlign="center">Total</GridTitles>
       </GridContainer>
       {cartItems.map(({
         id, title, images, price, quantity,
@@ -83,12 +83,15 @@ const CheckoutCartTable = ({ cartItems }) => {
               </Box>
             </Box>
           </ProductRow>
-          <QuantityRow item xs={12} sm={4} textAlign="center">
+          <QuantityRow item xs={12} sm={3} textAlign="center">
             <Box sx={{ flexDirection: { xs: 'row', sm: 'column' } }} display="flex" alignItems="center">
-              <Typography color="primary" fontSize="17px" fontWeight={500}>{quantity}</Typography>
+              <Box display="flex">
+                <Typography sx={{ display: { sx: 'flex', sm: 'none' } }} color="primary" fontSize="17px" fontWeight={500}>Quantity:&nbsp;</Typography>
+                <Typography color="primary" fontSize="17px" fontWeight={500}>{quantity}</Typography>
+              </Box>
             </Box>
           </QuantityRow>
-          <ProductRow item xs={12} sm={2} display={{ xs: 'none', sm: 'flex' }} textAlign="center" fontSize="17px">
+          <ProductRow item xs={12} sm={3} display={{ xs: 'none', sm: 'flex' }} textAlign="center" fontSize="17px">
             {(quantity * price).toFixed(2)}
             &nbsp;EUR
           </ProductRow>
