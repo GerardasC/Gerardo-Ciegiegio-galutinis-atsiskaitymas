@@ -5,7 +5,7 @@ const OfferBlock = ({
   promoImg, headerText, bodyText,
 }) => (
   <Box sx={{
-    height: '168px',
+    minHeight: '168px',
     padding: '28px',
     display: 'flex',
     backgroundColor: 'backgroundColor.secondary',
@@ -19,6 +19,7 @@ const OfferBlock = ({
       sx={{
         width: '110px',
         marginRight: '30px',
+        objectFit: 'contain',
       }}
     />
     <Box sx={{ color: 'textColor.main' }}>
