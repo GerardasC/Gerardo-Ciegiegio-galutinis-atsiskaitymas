@@ -15,9 +15,9 @@
       "id": "2ac817ad-f7b6-4d0e-a911-3f4f639c78f1",
       "email": "admin@gmail.com",
       "name": "Petras",
-      "surname": "Kardashian",
+      "surname": "Petraitis",
       "password": "Vilnius123",
-      "address": "karsdgsdgs",
+      "address": "Savanorių, 5a",
       "role": "ADMIN"
     },
     {
@@ -26,6 +26,7 @@
       "name": "Jonas",
       "surname": "Ponaitis",
       "password": "Vilnius123",
+      "address": "Vilniaus g., 16-24",
       "role": "USER",
       "imgSrc": "/images/img-1644261529335.jpg"
     }
